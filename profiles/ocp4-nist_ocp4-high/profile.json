@@ -9,7 +9,7 @@
     },
     "imports": [
       {
-        "href": "trestle:///Volumes/opt/nist-ocp4/catalogs/nist_ocp4/catalog.json",
+        "href": "trestle://catalogs/nist_ocp4/catalog.json",
         "include-controls": [
           {
             "with-ids": [
